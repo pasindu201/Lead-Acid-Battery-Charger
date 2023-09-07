@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=-30 V Pin=D3-1
+Removed Pin From Net: NetName=-30 V Pin=D4-2
+Removed Pin From Net: NetName=+30 V Pin=D5-2
+Removed Pin From Net: NetName=+30 V Pin=D6-1
+Change Component Designator: OldDesignator=  D1 NewDesignator=D1
+Added Component: Designator=C4(FP-VY1472M63Y5UQ6TV0-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Y5U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.787inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Kinked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "VY1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "500V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-VY1472M63Y5UQ6TV0-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Y5U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.787inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Kinked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "VY1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "500V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+30 V Pin=C4-2
+Added Pin To Net: NetName=-30 V Pin=C5-2
+Change Net Name : Old Net Name=Net  D1_1 New Net Name=NetC1_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D5-2
+Added Pin To Net: NetName=NetC4_1 Pin=D6-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D3-1
+Added Pin To Net: NetName=NetC5_1 Pin=D4-2
+Added Net: Name=NetC5_1
+Added Member To Class: ClassName=power Member=Component C4 6u
+Added Member To Class: ClassName=power Member=Component C5 6u
+Added Member To Class: ClassName=power Member=Component D1 1N4001
