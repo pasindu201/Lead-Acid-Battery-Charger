@@ -20,8 +20,10 @@ As the battery charges and its voltage gradually increases, it eventually reache
 For this stage we have implemented a constant voltage contro circuit which monitors the constant (13.3V) voltage across the battery terminals and adjust the duty cicle of the PWM signal to maintain a constant voltage across the battery. If the battery voltage starts to exceed the desired voltage (e.g., 13.3V), the charger reduces the duty cycle of the PWM signal, effectively reducing the average voltage delivered to the battery. Conversely, if the battery voltage drops below the desired level, the duty cycle is increased to boost the voltage. This is crusial for maintain a healthy battery charging process.
 
 ### PCD designs
-<img src="1.png" alt="Image 1" width="200px" height="150px">
-<img src="2.png" alt="Image 2" width="200px" height="150px">
-<img src="3.png" alt="Image 3" width="200px" height="150px">
+<p align="center">
+    <img src="1.png" alt="Image 1" width="200px" height="150px">
+    <img src="2.png" alt="Image 2" width="200px" height="150px">
+    <img src="3.png" alt="Image 3" width="200px" height="150px">
+</p>
 
 
