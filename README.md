@@ -8,7 +8,10 @@ Our project undertakes the development of a sophisticated multistage charger, en
 Furthermore, our charger harnesses the precision of Pulse Width Modulation (PWM) to govern the charging process. It expertly converts a 230V power source into a stable 15V DC output, chosen deliberately to expedite the charging reaction without compromising safety. This synergy of elements and techniques culminates in a 12V lead acid battery charger, purpose-built to deliver a maximum current of 1A, all the while adhering to the CC-CV charging approach rooted in the PWM technique.
 
 ## Methodology
-### dfdffd
+Constant Current Stage: 
+In the initial phase of charging the charger applies a fixed voltage to the battery terminals. However, the current delivered to the battery is controlled using PWM. The charger's control circuit monitors the battery's state of charge and adjusts the duty cycle of the PWM signal to maintain a constant current level. For example, if a charger is designed to deliver 1A of current to the battery, the PWM duty cycle will be adjusted to keep the current at this specified level.
+
+Constant Voltage Stage:
 
 
 
