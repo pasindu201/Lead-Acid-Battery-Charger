@@ -8,7 +8,7 @@ Our project undertakes the development of a sophisticated multistage charger, en
 Furthermore, our charger harnesses the precision of Pulse Width Modulation (PWM) to govern the charging process. It expertly converts a 230V power source into a stable 15V DC output, chosen deliberately to expedite the charging reaction without compromising safety. This synergy of elements and techniques culminates in a 12V lead acid battery charger, purpose-built to deliver a maximum current of 1A, all the while adhering to the CC-CV charging approach rooted in the PWM technique.
 
 ## Methodology
-###dfdffd
+### dfdffd
 
 
 
