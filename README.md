@@ -21,9 +21,9 @@ For this stage we have implemented a constant voltage contro circuit which monit
 
 ### PCD designs
 <p align="center">
-    <img src="1.png" alt="Image 1" width="200px" height="150px">
-    <img src="2.png" alt="Image 2" width="200px" height="150px">
-    <img src="3.png" alt="Image 3" width="200px" height="150px">
+    <img src="1.png" alt="Image 1" width="33%" height="200px">
+    <img src="2.png" alt="Image 2" width="33%" height="200px">
+    <img src="3.png" alt="Image 3" width="33%" height="200px">
 </p>
 
 
