@@ -1,5 +1,6 @@
 # Multistage Lead-Acid-Battery-Charger
 <img src =lead-acid.png height="400">
+
 ## introduction
 
 Lead acid batteries, among the earliest rechargeable battery technologies, derive their strength from the incorporation of elements such as antimony, calcium, tin, selenium, and the fundamental constituents of lead and acid. These batteries predominantly fall into two categories: starter batteries and recycle batteries. Charging these lead-acid batteries necessitates the use of diverse methodologies, including constant current chargers (CC), constant voltage chargers (CV), and the advanced multistage chargers.
