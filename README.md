@@ -1,4 +1,5 @@
 # Multistage Lead-Acid-Battery-Charger
+<img src =lead-acid.png height="400">
 ## introduction
 
 Lead acid batteries, among the earliest rechargeable battery technologies, derive their strength from the incorporation of elements such as antimony, calcium, tin, selenium, and the fundamental constituents of lead and acid. These batteries predominantly fall into two categories: starter batteries and recycle batteries. Charging these lead-acid batteries necessitates the use of diverse methodologies, including constant current chargers (CC), constant voltage chargers (CV), and the advanced multistage chargers.
@@ -14,7 +15,7 @@ In the initial phase of charging the charger applies a fixed voltage to the batt
 ### Transition to Constant Voltage Stage
 As the battery charges and its voltage gradually increases, it eventually reaches a predetermined voltage level, often around 13.3V for a 12V lead acid battery. At this point, the charger switches from the constant current mode to the constant voltage mode. 
 
-###PWM Control for Voltage
+### PWM Control for Voltage
 For this stage we have implemented a constant voltage contro circuit which monitors the constant (13.3V) voltage across the battery terminals and adjust the duty cicle of the PWM signal to maintain a constant voltage across the battery. If the battery voltage starts to exceed the desired voltage (e.g., 13.3V), the charger reduces the duty cycle of the PWM signal, effectively reducing the average voltage delivered to the battery. Conversely, if the battery voltage drops below the desired level, the duty cycle is increased to boost the voltage. This is crusial for maintain a healthy battery charging process.
 
 
