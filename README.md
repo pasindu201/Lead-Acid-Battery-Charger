@@ -26,4 +26,10 @@ For this stage we have implemented a constant voltage contro circuit which monit
     <img src="3.png" alt="Image 3" width="33%" height="200px">
 </p>
 
+### Encloser designs
+<p align="center">
+    <img src="1.png" alt="Image 1" width="50%" height="250px">
+    <img src="2.png" alt="Image 2" width="50%" height="250px">
+</p>
+
 
